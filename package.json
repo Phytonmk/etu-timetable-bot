@@ -1,0 +1,11 @@
+{
+  "name": "etu-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Phytonmk <Phytonmk@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "json5": "^2.0.1"
+  }
+}

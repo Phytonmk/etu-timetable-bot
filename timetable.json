@@ -1,0 +1,111 @@
+[{
+  "day": 1,
+  "lessons": [{
+    "start": "11:40",
+    "duration": 90,
+    "title": "Физика",
+    "master": "Кузьмина",
+    "place": 3107
+  }, {
+    "start": "13:45",
+    "duration": 90,
+    "title": "Инностранный язык",
+    "place": "Кафедра иностранного языка"
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Алгебра и геометрия",
+    "place": 3428
+  }]
+}, {
+  "day": 2,
+  "lessons": [{
+    "start": "13:45",
+    "duration": 90,
+    "title": "Алгебра и геометрия",
+    "person": "Энтина",
+    "place": 3132
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Физкультура"
+  }]
+}, {
+  "day": 4,
+  "lessons": [{
+    "start": "13:45",
+    "duration": 90,
+    "title": "Программирование",
+    "person": "Воронов",
+    "place": 5423
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Физика",
+    "type": "Лабораторная",
+    "place": "Кафедра физики",
+    "notEveryWeek": "only-odds"
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Физика",
+    "type": "Практика",
+    "place": 3417,
+    "notEveryWeek": "only-evens"
+  }]
+}, {
+  "day": 5,
+  "lessons": [{
+    "start": "11:40",
+    "duration": 90,
+    "title": "Философия"
+  }, {
+    "start": "13:45",
+    "duration": 90,
+    "title": "Физкультура"
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Математический анализ",
+    "person": "Медведев",
+    "place": 2418
+  }, {
+    "start": "17:25",
+    "duration": 90,
+    "title": "Программирование",
+    "type": "Практика",
+    "person": "Синев",
+    "place": 1212,
+    "notEveryWeek": "only-odds"
+  }]
+}, {
+  "day": 6,
+  "lessons": [{
+    "start": "09:50",
+    "duration": 90,
+    "title": "Программирование",
+    "type": "Практика",
+    "person": "Синев",
+    "place": 1215,
+    "notEveryWeek": "only-odds"
+  }, {
+    "start": "11:40",
+    "duration": 90,
+    "title": "Информатика",
+    "type": "Лабораторная",
+    "person": "Копыльцов А.А.",
+    "place": 1214 
+  }, {
+    "start": "13:45",
+    "duration": 90,
+    "title": "Информатика",
+    "person": "Копыльцов А.А."
+  }, {
+    "start": "15:35",
+    "duration": 90,
+    "title": "Философия",
+    "type": "Практика",
+    "person": "Федоров",
+    "place": 5360
+  }]
+}]
